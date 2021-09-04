@@ -38,7 +38,7 @@ $(function(){
 		$(".group .list").hide();
 	});
 	
-    $(window).load(function(){
+    $(window).on('load', function(){	
         $("section .cont_2>.select_cont>div").eq(0).stop().show();
     });
     
