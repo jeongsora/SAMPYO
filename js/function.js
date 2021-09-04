@@ -26,7 +26,7 @@ $(function(){
 	});
 	
 	/*자동재생*/
-	$(window).load(function(){
+	$(window).on('load', function(){
 		$btnAuto.addClass("pause").text("정지");
 			intervalID=setInterval(function(){
 			if(nowIdx>=2){
