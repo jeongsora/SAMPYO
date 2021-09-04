@@ -121,7 +121,7 @@ section>article>.news>.news_cont>.btn>a{display: block; width: 41px; height: 8px
 
 /*사회공헌*/
 section>article>.social{position: absolute; left: 320px; top: 5px; width: 300px; height: 314px; border: 1px solid #e5e5e5; box-sizing: border-box;}
-section>article>.social>.social_img{width: 300px; height: 184px; background-image: url(../images/social_img.jpg); background-size: cover;}
+section>article>.social>.social_img{width: 300px; height: 184px; background-image: url(../images/social_img.JPG); background-size: cover;}
 section>article>.social>.social_img>.social_title{width: 300px; height: 48px; background-image: url(../images/black_bg.png);}
 section>article>.social>.social_img>.social_title>h2{float: left; width: 60px; height: 48px; text-indent: -9999px; background-image: url(../images/social_ico.gif);}
 section>article>.social>.social_img>.social_title>p{width: 200px; height: 48px; margin-left: 75px; padding-top: 5px; color: #fff; font-weight: 800; line-height: 1.5;}
